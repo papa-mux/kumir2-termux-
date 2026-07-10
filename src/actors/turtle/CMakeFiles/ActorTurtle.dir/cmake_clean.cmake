@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../lib/kumir2/plugins/libActorTurtle.pdb"
+  "../../../lib/kumir2/plugins/libActorTurtle.so"
+  "CMakeFiles/ActorTurtle.dir/link.d"
+  "CMakeFiles/ActorTurtle.dir/pult.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/pult.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/pult.h_qt_moc.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/pult.h_qt_moc.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtle.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtle.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtle.h_qt_moc.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtle.h_qt_moc.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtlemodule.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtlemodule.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtlemodule.h_qt_moc.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtlemodule.h_qt_moc.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtlemodulebase.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtlemodulebase.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtlemodulebase.h_qt_moc.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtlemodulebase.h_qt_moc.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtleplugin.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtleplugin.cpp.o.d"
+  "CMakeFiles/ActorTurtle.dir/turtleplugin.h_qt_moc.cpp.o"
+  "CMakeFiles/ActorTurtle.dir/turtleplugin.h_qt_moc.cpp.o.d"
+  "pult.h_qt_moc.cpp"
+  "turtle.h_qt_moc.cpp"
+  "turtlemodule.h_qt_moc.cpp"
+  "turtlemodulebase.cpp"
+  "turtlemodulebase.h"
+  "turtlemodulebase.h_qt_moc.cpp"
+  "turtleplugin.cpp"
+  "turtleplugin.h"
+  "turtleplugin.h_qt_moc.cpp"
+  "ui_pult.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ActorTurtle.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
