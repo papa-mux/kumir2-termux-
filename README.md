@@ -1,1 +1,0 @@
-# kumir2-termux-
