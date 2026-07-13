@@ -2,7 +2,7 @@
 
 > Build and run the KuMir2 educational IDE (Кумир) natively on Android via Termux.
 
-[Русская версия](./README-ru.md)
+[Русская версия](./readme-ru.md)
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Termux%20(Android)-blue)
